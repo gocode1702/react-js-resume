@@ -3,13 +3,8 @@
     "name":"لأنني أحبك",
     "description":"سبحانك ما عبدناك حق عبادتك",
     "image":"WhatsApp_Image_2019-11-16_at_1_40_12_PM.jpeg",
-    "bio":"الميزان 
-المِيزانُ عندَ اللهِ يَختلِفُ عن المَوازينِ عندَ النَّاسِ
-معيار التفاضل هو القرب لله و التقوى و ليس الغنى و الفقر ",
-    "contactmessage":"يمشي الفقير و كل شيء ضده والناس تغلق دونه ابوابها 
-و تراه متغوضا و ليس بمذنب و يرى العداوة و لا يرى اسبابها 
-حتى الكلاب اظا رأت ذا ثروة , خضعت لديه و حركت اذنابها 
-و اذا رأت يوما فقيرا عابرا نبحت عليه و كشرت انيابها ",
+    "bio":"ر ",
+    "contactmessage":" ",
     "email": "mimodido1702@gmail.com",
     "phone": "52474484",
     "github":"https://github.com/gomycode155/react-js-resume",
@@ -31,27 +26,27 @@
       {
         "name":"twitter",
         "url":"https://twitter.com/mimodido1702",
-        "className":"fa fa-twitter"
+        "className":""
       },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/mimo-dido-a18160254/",
-        "className":"fa fa-linkedin"
+        "className":""
       },
       {
         "name":"instagram",
         "url":"https://www.instagram.com/marmite1702/",
-        "className":"fa fa-instagram"
+        "className":""
       },
       {
         "name":"github",
         "url":"https://github.com/gomycode155?tab=repositories",
-        "className":"fa fa-github"
+        "className":""
       },
       {
         "name":"codepen",
         "url":"https://codepen.io/lovecodding",
-        "className":"fa fa-github"
+        "className":""
       }
     ]
   },
