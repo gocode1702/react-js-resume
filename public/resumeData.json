@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"ل هأنني أحبك",
+    "name":"لأنني أحبك",
     "description":"سبحانك ما عبدناك حق عبادتك",
     "image":"WhatsApp_Image_2019-11-16_at_1_40_12_PM.jpeg",
     "bio":"ر ",
@@ -26,27 +26,27 @@
       {
         "name":"twitter",
         "url":"https://twitter.com/mimodido1702",
-        "className":""
+        "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/mimo-dido-a18160254/",
-        "className":""
+        "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
         "url":"https://www.instagram.com/marmite1702/",
-        "className":""
+        "className":"fa fa-instagram"
       },
       {
         "name":"github",
         "url":"https://github.com/gomycode155?tab=repositories",
-        "className":""
+        "className":"fa fa-github"
       },
       {
         "name":"codepen",
         "url":"https://codepen.io/lovecodding",
-        "className":""
+        "className":"fa fa-codepen"
       }
     ]
   },
