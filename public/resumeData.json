@@ -1,155 +1,155 @@
 {
   "main": {
-    "name":"لأنني أحبك",
-    "description":"سبحانك ما عبدناك حق عبادتك",
-    "image":"WhatsApp_Image_2019-11-16_at_1_40_12_PM.jpeg",
-    "bio":"ر ",
-    "contactmessage":" ",
+    "name": "لأنني أحبك",
+    "description": "سبحانك ما عبدناك حق عبادتك",
+    "image": "WhatsApp_Image_2019-11-16_at_1_40_12_PM.jpeg",
+    "bio": "ر ",
+    "contactmessage": " ",
     "email": "mimodido1702@gmail.com",
     "phone": "52474484",
-    "github":"https://github.com/gomycode155/react-js-resume",
-    "project":"https://github.com/gomycode155/react-js-resume",
-    "address":{
-      "street":"(boulevard principal)",
-      "city":"(MARSA)",
-      "state":"(Tunisia)",
+    "github": "https://github.com/gomycode155/react-js-resume",
+    "project": "https://github.com/gomycode155/react-js-resume",
+    "address": {
+      "street": "(boulevard principal)",
+      "city": "(MARSA)",
+      "state": "(Tunisia)",
       "zip": "(mimo/1001)"
     },
     "website": "https://react-js-resumed.netlify.app/",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
       {
-        "name":"facebook",
-        "url":"hhttps://www.facebook.com/profile.php?id=100078043847714",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "hhttps://www.facebook.com/profile.php?id=100078043847714",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"https://twitter.com/mimodido1702",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/mimodido1702",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/mimo-dido-a18160254/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mimo-dido-a18160254/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/marmite1702/",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "https://www.instagram.com/marmite1702/",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"https://github.com/gomycode155?tab=repositories",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/gomycode155?tab=repositories",
+        "className": "fa fa-github"
       },
       {
-        "name":"codepen",
-        "url":"https://codepen.io/lovecodding",
-        "className":"fa fa-codepen"
+        "name": "codepen",
+        "url": "https://codepen.io/lovecodding",
+        "className": "fa fa-codepen"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"بابني، أكلت الحنظل، وذقت الصبر، فلم أر أمرَّ من الفقر، فإن افتقرتَ فلا تحدِّث به الناس كيلا ينتقصوك ولكن اسأل الله تعالى من فضله",
-    "education":[
+  "resume": {
+    "skillmessage": "بابني، أكلت الحنظل، وذقت الصبر، فلم أر أمرَّ من الفقر، فإن افتقرتَ فلا تحدِّث به الناس كيلا ينتقصوك ولكن اسأل الله تعالى من فضله",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2021",
-        "description":"WEB-Courses"
+        "school": "University?",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2021",
+        "description": "WEB-Courses"
       },
       {
-        "school":"gomycode",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"و اعلم أن رزق ربك خير و أبقى"
+        "school": "gomycode",
+        "degree": "What did you study 101",
+        "graduated": "March 2013",
+        "description": "و اعلم أن رزق ربك خير و أبقى"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"شركة بترولية في الخليج",
-        "title":"Senior ",
-        "years":"2019 - Present",
-        "description":"ingeniors"
+        "company": "شركة بترولية في الخليج",
+        "title": "Senior ",
+        "years": "2019 - Present",
+        "description": "ingeniors"
       },
       {
-        "company":"KPM INT",
-        "title":"president",
-        "years":"2019 - February 2019",
-        "description":"conseil-audit-trainings"
+        "company": "KPM INT",
+        "title": "president",
+        "years": "2019 - February 2019",
+        "description": "conseil-audit-trainings"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Python",
-        "level":"30%"
+        "name": "Python",
+        "level": "30%"
       },
       {
-        "name":"VueJs",
-        "level":"15%"
+        "name": "VueJs",
+        "level": "15%"
       },
       {
-        "name":"ReactJs",
-        "level":"100%"
+        "name": "ReactJs",
+        "level": "100%"
       },
       {
-        "name":"CSS",
-        "level":"100%"
+        "name": "CSS",
+        "level": "100%"
       },
       {
-        "name":"PHP",
-        "level":"100%"
+        "name": "PHP",
+        "level": "100%"
       },
       {
-        "name":"Swift",
-        "level":"30%"
+        "name": "Swift",
+        "level": "30%"
       },
       {
-        "name":"JAVA",
-        "level":"100%"
+        "name": "JAVA",
+        "level": "100%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
         "title": "لمن تحل الصدقات",
         "category": "تنبيه و تحذير من المتطفلين",
         "image": "المتسول المخادع.jpg",
-        "imagedownload": "hhttps://www.alkhaleej.ae/%D9%85%D9%84%D8%AD%D9%82/%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%88%D9%84%D9%88%D9%86-%D8%AE%D8%AF%D8%A7%D8%B9-%D9%84%D9%85%D8%B4%D8%A7%D8%B9%D8%B1-%D8%A7%D9%84%D8%B5%D8%BA%D8%A7%D8%B1",
-        "url": "hhttps://www.alkhaleej.ae/%D9%85%D9%84%D8%AD%D9%82/%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%88%D9%84%D9%88%D9%86-%D8%AE%D8%AF%D8%A7%D8%B9-%D9%84%D9%85%D8%B4%D8%A7%D8%B9%D8%B1-%D8%A7%D9%84%D8%B5%D8%BA%D8%A7%D8%B1"
+        "bagraound-image": "hhttps://www.alkhaleej.ae/%D9%85%D9%84%D8%AD%D9%82/%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%88%D9%84%D9%88%D9%86-%D8%AE%D8%AF%D8%A7%D8%B9-%D9%84%D9%85%D8%B4%D8%A7%D8%B9%D8%B1-%D8%A7%D9%84%D8%B5%D8%BA%D8%A7%D8%B1",
+        "url": "https://www.alkhaleej.ae/%D9%85%D9%84%D8%AD%D9%82/%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D9%88%D9%84%D9%88%D9%86-%D8%AE%D8%AF%D8%A7%D8%B9-%D9%84%D9%85%D8%B4%D8%A7%D8%B9%D8%B1-%D8%A7%D9%84%D8%B5%D8%BA%D8%A7%D8%B1"
       },
       {
-        "title":"كيف يكون الصبر الجميل",
-        "category":"القلب و الورع",
-        "image":"الورع.jpg",
-        "url":"https://www.alukah.net/sharia/0/101060/%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D9%88%D8%B1%D8%B9-1/"
+        "title": "كيف يكون الصبر الجميل",
+        "category": "القلب و الورع",
+        "image": "الورع.jpg",
+        "bagraound-image": " https://www.alukah.net/sharia/0/101060/%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D9%88%D8%B1%D8%B9-1/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "À partir de quel montant estimez-vous qu'on a besoin d'un confort méme si que l'on paye cher",
+        "category": " le confort financier rassure la qualité de service et l'hygiene de vie  ",
+        "image": "03.jpg",
+
+        "url": "https://dictionnaire.lerobert.com/definition/confort-financier"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "0-metiers-que-personne-na-envie-de-faire-mais-qui-payent-super-bien",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "https://blog.bruce.work/10-metiers-que-personne-na-envie-de-faire-mais-qui-payent-super-bien#ancre1"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-       
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
       }
     ]
   }
