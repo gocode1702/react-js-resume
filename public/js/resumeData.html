@@ -271,7 +271,33 @@ td
 <td>15%</td>
 <td dir='RTL' align='right'>كيف يكون الصبر الجميل</td>
 <td dir='RTL' align='right'>القلب و الورع</td>
-<td dir='RTL' align='right'>الورع.jpg</td>
+<td dir='RTL' align='right'>الورع.jpg
+    <script>import "./styles.css";
+
+function App() {
+  return (
+    <div className="App">
+      <h1>Hello CodeSandbox</h1>
+      <a href="https://www.docplanner.com/career?&loc=mexico#jobs-offers">
+                           
+                          
+                                Mexico City
+                                <button class="btn btn-primary btn-sm">See openings</button>
+                          
+                        </a>
+      <h2>Start editing to see some magic happen!</h2>
+    </div>
+  );
+}
+
+const Hello = () => <div>hello</div>;
+
+const html = ReactDOMServer.renderToStaticMarkup(<Hello />);
+
+console.log(html.toString());
+
+const rootElement = document.getElementById("root");
+ReactDOM.render(<App />, rootElement);</script></td>
 <td></td>
 <td>https://www.alukah.net/sharia/0/101060/%D8%A7%D9%84%D9%82%D9%84%D8%A8-%D8%A7%D9%84%D9%88%D8%B1%D8%B9-1/</td>
 <td></td>
