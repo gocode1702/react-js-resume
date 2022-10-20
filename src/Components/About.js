@@ -50,7 +50,9 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <img src="public/images/portfolio/profilepic.jpg" alt=""></img>
+                    <a href="https://www.docplanner.com/career?&loc=poland#jobs-offers">
+                          
+                    <img src="public/images/portfolio/profilepic.jpg" alt=""></img></a>
                     <a href={resumeDownload} className="button">
                       
                       <i className="fa fa-download"></i>Download Resume
