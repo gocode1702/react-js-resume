@@ -50,11 +50,6 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   
-                           <img src="public/images/portfolio/الورع.jpg" alt="">
-                         
-                         
-                                <button class="btn btn-primary btn-sm"> <a href="https://www.docplanner.com/career?&loc=poland#jobs-offers">See openings </a></button>
-                    
                   <p>
                     
                     
