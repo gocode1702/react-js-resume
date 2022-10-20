@@ -14,6 +14,13 @@ class Portfolio extends Component {
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
             <Zmage alt={projects.title} src={projectImage} />
+          
+              <button className="submit">Submit</button>
+              <span id="image-loader">
+                <img alt="" src="images/loader.gif" />
+              </span>
+            
+
             <div style={{ textAlign: "center" }}>{projects.title}</div>
           </div>
         </div>
